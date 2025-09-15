@@ -44,7 +44,7 @@ public class Main {
      * Prints the main menu options.
      */
     static void printMainMenu() {
-        System.out.println("\nMain Menu:");
+        System.out.println("\n Main Menu:");
         System.out.println("1. Add student");
         System.out.println("2. Enter grades");
         System.out.println("3. Show all students");
